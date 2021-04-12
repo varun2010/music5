@@ -1,0 +1,18 @@
+.heading{
+    font-size:26px;
+    margin: 0px;
+    width: 100%;
+    font-weight: bold;
+    color: blueviolet;
+    box-shadow: 0px 10px springgreen;
+}
+#note{
+    font-size: 20px;
+    color: yellow;
+}
+canvas{
+    border: 5px solid blueviolet;
+}
+.btn:hover{
+    color: rebeccapurple;
+}
